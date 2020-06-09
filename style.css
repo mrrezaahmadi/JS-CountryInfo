@@ -1,0 +1,19 @@
+.country {
+    background-color: rgb(113, 118, 184);
+    border: 1px white solid;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    width: inherit;
+}
+
+
+#app {
+    width: 100%;
+    height: 100%;
+}
+
